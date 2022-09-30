@@ -12,7 +12,7 @@ bacon_counter.py
 practice_files
 challenge_schema.sql
 vine_table.csv
-
+amazon_reviews_us_Electronics_v1_00.tsv.gz
 # Distribution / packaging
 .Python
 build/
