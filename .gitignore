@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# adding practice files
+input.txt
+bacon_counter.py
+practice_files
+challenge_schema.sql
+vine_table.csv
+
 # Distribution / packaging
 .Python
 build/
