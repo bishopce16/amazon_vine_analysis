@@ -1,6 +1,6 @@
 # amazon_vine_analysis
 
-Big Data Analysis on Amazon Vine Data using SQL, pgAdmin, Postgres, Python, Pandas, Pyspark, AWS, Google Colab Notebook.
+Big Data Analysis on an Amazon Vine Review Dataset using pgAdmin, PostgresSQL, Python, Pandas, Pyspark, AWS, Google Colab Notebook.
 
 ---
 
